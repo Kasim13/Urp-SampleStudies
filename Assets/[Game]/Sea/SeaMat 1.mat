@@ -7,7 +7,7 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: SeaMat
+  m_Name: SeaMat 1
   m_Shader: {fileID: -6465566751694194690, guid: cb484cc962b02b142be9bf92cd1e39e1,
     type: 3}
   m_ShaderKeywords: 
@@ -57,10 +57,10 @@ Material:
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Floats:
-    - Vector1_628426CF: 9
-    - Vector1_6F67194B: 0.45
+    - Vector1_628426CF: 1.5
+    - Vector1_6F67194B: 1.51
     - Vector1_8BE39B50: 1
-    - Vector1_9D016C57: 0.75
+    - Vector1_9D016C57: 2
     - _AlphaClip: 0
     - _Blend: 0
     - _BumpScale: 1
@@ -83,8 +83,8 @@ Material:
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:
-    - Color_556F4EA1: {r: 0.0047169924, g: 0.8265948, b: 1, a: 1}
-    - Color_F5FC16EE: {r: 0.42727306, g: 0.06132078, b: 1, a: 1}
+    - Color_556F4EA1: {r: 0, g: 0.6355138, b: 1, a: 1}
+    - Color_F5FC16EE: {r: 0, g: 0.11449838, b: 1, a: 1}
     - _BaseColor: {r: 1, g: 1, b: 1, a: 1}
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
